@@ -68,7 +68,7 @@ wireless dapat digunakan pada Kali Linux.
 Wireless interface dipersiapkan untuk melakukan pengamatan terhadap
 frame IEEE 802.11 pada lingkungan pengujian.
 
-![Monitor Mode](screenshots/02_monitor_mode.png)
+![Monitor Mode](screenshots/02_monitor_ode.png)
 
 ------------------------------------------------------------------------
 
